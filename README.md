@@ -15,11 +15,15 @@
 <h4>👁 Previsualización del sistema</h4>
 <div style="display: flex; gap: 10px; margin-top: 10px;">
   <div style="flex: 1; border: 1px solid #ccc; padding: 5px; text-align: center;">
+    <img src="ImagenesDelSistema/Paginaprincipal.png" alt="Pantalla 0" style="width: 100%; height: auto;">
+    <h4>Pantalla Principal</h4>
+  </div>
+  <div style="flex: 1; border: 1px solid #ccc; padding: 5px; text-align: center;">
     <img src="ImagenesDelSistema/Login.png" alt="Pantalla 1" style="width: 100%; height: auto;">
     <h4>Login</h4>
   </div>
   <div style="flex: 1; border: 1px solid #ccc; padding: 5px; text-align: center;">
-    <img src="ImagenesDelSistema/Lecciones.png" alt="Pantalla 2" style="width: 100%; height: auto;">
+    <img src="ImagenesDelSistema/FormatoLecciones.png" alt="Pantalla 2" style="width: 100%; height: auto;">
     <h4>Formato de Lecciones</h4>
   </div>
   <div style="flex: 1; border: 1px solid #ccc; padding: 5px; text-align: center;">
