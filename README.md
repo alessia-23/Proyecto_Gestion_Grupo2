@@ -31,9 +31,3 @@
     <h4>Dashboard</h4>
   </div>
 </div>
-
-<br>
-<h4>📥Descarga del sistema</h4>
-<a href="https://drive.google.com/drive/folders/1_OxZF_56uxJZ9FPlxiHGa0J8Ke3POv5q?usp=sharing" target="_blank">
-  Descargar AvaLearn (.exe)
-</a>
