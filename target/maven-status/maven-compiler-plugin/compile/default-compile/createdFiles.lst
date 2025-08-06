@@ -1,0 +1,10 @@
+com\avlearn\model\Pregunta.class
+com\avlearn\AvaLearnApplication.class
+com\avlearn\util\LectorJson.class
+com\avlearn\model\ContenedorPruebas.class
+com\avlearn\model\User.class
+com\avlearn\service\LevelTestService.class
+com\avlearn\controller\HomeController.class
+com\avlearn\service\AvatarService.class
+com\avlearn\model\Avatar.class
+com\avlearn\model\Prueba.class
