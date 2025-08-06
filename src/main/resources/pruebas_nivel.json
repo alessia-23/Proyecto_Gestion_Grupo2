@@ -1,0 +1,190 @@
+{
+  "level_basic": [
+    {
+      "id": 1,
+      "questions": [
+        { "question": "What color is the sky?", "options": ["Blue", "Green", "Red", "Yellow"], "answer": "Blue" },
+        { "question": "Choose the correct article: ___ apple", "options": ["a", "an", "the", "some"], "answer": "an" },
+        { "question": "What is the opposite of 'hot'?", "options": ["cold", "warm", "cool", "heat"], "answer": "cold" },
+        { "question": "Which one is a fruit?", "options": ["Chair", "Banana", "Rock", "Spoon"], "answer": "Banana" },
+        { "question": "How do you say 'hola' in English?", "options": ["Bye", "Yes", "Hello", "Thanks"], "answer": "Hello" },
+        { "question": "Complete: My name ___ Juan.", "options": ["is", "are", "am", "be"], "answer": "is" },
+        { "question": "What number is 'diez'?", "options": ["5", "10", "15", "20"], "answer": "10" },
+        { "question": "Which animal barks?", "options": ["Cat", "Dog", "Bird", "Horse"], "answer": "Dog" },
+        { "question": "Where do you sleep?", "options": ["Kitchen", "Bathroom", "Bed", "Garden"], "answer": "Bed" },
+        { "question": "What is the plural of 'libro'?", "options": ["Books", "Bookes", "Bookz", "Bookies"], "answer": "Books" }
+      ]
+    },
+    {
+      "id": 2,
+      "questions": [
+        { "question": "What day comes after Monday?", "options": ["Sunday", "Tuesday", "Wednesday", "Friday"], "answer": "Tuesday" },
+        { "question": "What is the past tense of 'go'?", "options": ["gone", "went", "goes", "going"], "answer": "went" },
+        { "question": "Complete: She ___ happy.", "options": ["are", "is", "am", "be"], "answer": "is" },
+        { "question": "Which is not a color?", "options": ["Red", "Blue", "Tree", "Green"], "answer": "Tree" },
+        { "question": "How much is 2 + 3?", "options": ["4", "5", "6", "7"], "answer": "5" },
+        { "question": "What do you drink?", "options": ["Water", "Rock", "Chair", "Shirt"], "answer": "Water" },
+        { "question": "How do you say 'gracias'?", "options": ["Sorry", "Please", "Thank you", "Hello"], "answer": "Thank you" },
+        { "question": "Where is the sun?", "options": ["Sky", "Ocean", "Street", "Pocket"], "answer": "Sky" },
+        { "question": "What is the opposite of 'big'?", "options": ["Tall", "Small", "Short", "Large"], "answer": "Small" },
+        { "question": "What is a 'bolígrafo' used for?", "options": ["Eating", "Sleeping", "Writing", "Running"], "answer": "Writing" }
+      ]
+    },
+    {
+      "id": 3,
+      "questions": [
+        { "question": "How do you spell 'gato'?", "options": ["kat", "cat", "cut", "cot"], "answer": "cat" },
+        { "question": "Where do birds live?", "options": ["Nest", "Desk", "Closet", "Box"], "answer": "Nest" },
+        { "question": "Choose the correct word: The car is very ___.", "options": ["quickly", "slowly", "drive", "fast"], "answer": "fast" },
+        { "question": "What does 'frío' mean?", "options": ["Hot", "Cold", "Noisy", "Dark"], "answer": "Cold" },
+        { "question": "Which animal is green and jumps?", "options": ["Frog", "Fish", "Dog", "Bird"], "answer": "Frog" },
+        { "question": "Choose the correct one: This ___ my book.", "options": ["is", "are", "am", "be"], "answer": "is" },
+        { "question": "How many legs does a spider have?", "options": ["6", "8", "10", "4"], "answer": "8" },
+        { "question": "Which one is a vegetable?", "options": ["Apple", "Carrot", "Banana", "Orange"], "answer": "Carrot" },
+        { "question": "What do you use to see?", "options": ["Eyes", "Ears", "Hands", "Mouth"], "answer": "Eyes" },
+        { "question": "Choose the correct word: He is very ___.", "options": ["happy", "run", "eat", "book"], "answer": "happy" }
+      ]
+    }
+  ],
+  "level_intermediate": [
+    {
+      "id": 1,
+      "questions": [
+        { "question": "Choose the correct sentence:", "options": ["She go to school.", "She goes to school.", "She went to school.", "She going to school."], "answer": "She goes to school." },
+        { "question": "What is the past tense of 'eat'?", "options": ["Eaten", "Ate", "Eats", "Eating"], "answer": "Ate" },
+        { "question": "Which one is an adjective?", "options": ["Quickly", "Quick", "Run", "Running"], "answer": "Quick" },
+        { "question": "Complete: I have lived here ___ 2010.", "options": ["for", "since", "by", "from"], "answer": "since" },
+        { "question": "What is a synonym for 'feliz'?", "options": ["Sad", "Happy", "Angry", "Hungry"], "answer": "Happy" },
+        { "question": "He ___ to the gym every day.", "options": ["go", "goes", "going", "went"], "answer": "goes" },
+        { "question": "Choose the correct question:", "options": ["Where he lives?", "Where does he live?", "Where live he?", "Where he does live?"], "answer": "Where does he live?" },
+        { "question": "I am not good ___ math.", "options": ["in", "at", "on", "to"], "answer": "at" },
+        { "question": "Which is a regular verb?", "options": ["Go", "Run", "Play", "Swim"], "answer": "Play" },
+        { "question": "What is the plural of 'niño'?", "options": ["Children", "Childs", "Childrens", "Childen"], "answer": "Children" }
+      ]
+    },
+    {
+      "id": 2,
+      "questions": [
+        { "question": "What is the opposite of 'grande'?", "options": ["Small", "Big", "Tall", "Heavy"], "answer": "Small" },
+        { "question": "Which is a body part?", "options": ["Hand", "Window", "Book", "Shoe"], "answer": "Hand" },
+        { "question": "Which animal says 'meow'?", "options": ["Cat", "Dog", "Bird", "Fish"], "answer": "Cat" },
+        { "question": "What do you wear on your feet?", "options": ["Shoes", "Shirt", "Hat", "Gloves"], "answer": "Shoes" },
+        { "question": "How many days are in a week?", "options": ["5", "6", "7", "8"], "answer": "7" },
+        { "question": "What do you drink?", "options": ["Water", "Book", "Pencil", "Phone"], "answer": "Water" },
+        { "question": "Which is a color?", "options": ["Red", "Run", "Read", "Rain"], "answer": "Red" },
+        { "question": "What comes after Monday?", "options": ["Tuesday", "Sunday", "Friday", "Thursday"], "answer": "Tuesday" },
+        { "question": "What do you use to write?", "options": ["Pen", "Fork", "Key", "Bottle"], "answer": "Pen" },
+        { "question": "How many fingers do you have?", "options": ["10", "5", "8", "6"], "answer": "10" }
+      ]
+    },
+    {
+      "id": 3,
+      "questions": [
+        { "question": "Which is a vegetable?", "options": ["Carrot", "Ball", "Shoe", "Phone"], "answer": "Carrot" },
+        { "question": "What do you eat in the morning?", "options": ["Breakfast", "Dinner", "Snack", "Lunch"], "answer": "Breakfast" },
+        { "question": "How much is 5 - 3?", "options": ["2", "1", "3", "4"], "answer": "2" },
+        { "question": "Which is an animal?", "options": ["Dog", "Spoon", "Shirt", "Lamp"], "answer": "Dog" },
+        { "question": "What is the opposite of 'happy'?", "options": ["Sad", "Funny", "Kind", "Cold"], "answer": "Sad" },
+        { "question": "What color is grass?", "options": ["Green", "Blue", "Red", "Yellow"], "answer": "Green" },
+        { "question": "What do you use to brush your teeth?", "options": ["Toothbrush", "Spoon", "Comb", "Soap"], "answer": "Toothbrush" },
+        { "question": "How do you say 'gracias' in English?", "options": ["Thanks", "Please", "Sorry", "Hello"], "answer": "Thanks" },
+        { "question": "Which is not a number?", "options": ["Seven", "Twenty", "Apple", "Ten"], "answer": "Apple" },
+        { "question": "Which is a pet?", "options": ["Cat", "Cow", "Tiger", "Lion"], "answer": "Cat" }
+      ]
+    }
+  ],
+  "level_intermediate": [
+    {
+      "id": 1,
+      "questions": [
+        { "question": "Choose the correct sentence:", "options": ["She go to school.", "She goes to school.", "She went to school.", "She going to school."], "answer": "She goes to school." },
+        { "question": "What is the past tense of 'eat'?", "options": ["Eaten", "Ate", "Eats", "Eating"], "answer": "Ate" },
+        { "question": "Which one is an adjective?", "options": ["Quickly", "Quick", "Run", "Running"], "answer": "Quick" },
+        { "question": "Complete: I have lived here ___ 2010.", "options": ["for", "since", "by", "from"], "answer": "since" },
+        { "question": "What is a synonym for 'feliz'?", "options": ["Sad", "Happy", "Angry", "Hungry"], "answer": "Happy" },
+        { "question": "He ___ to the gym every day.", "options": ["go", "goes", "going", "went"], "answer": "goes" },
+        { "question": "Choose the correct question:", "options": ["Where he lives?", "Where does he live?", "Where live he?", "Where he does live?"], "answer": "Where does he live?" },
+        { "question": "I am not good ___ math.", "options": ["in", "at", "on", "to"], "answer": "at" },
+        { "question": "Which is a regular verb?", "options": ["Go", "Run", "Play", "Swim"], "answer": "Play" },
+        { "question": "What is the plural of 'niño'?", "options": ["Children", "Childs", "Childrens", "Childen"], "answer": "Children" }
+      ]
+    },
+    {
+      "id": 2,
+      "questions": [
+        { "question": "What is the opposite of 'grande'?", "options": ["Small", "Big", "Tall", "Heavy"], "answer": "Small" },
+        { "question": "Which is a body part?", "options": ["Hand", "Window", "Book", "Shoe"], "answer": "Hand" },
+        { "question": "Which animal says 'meow'?", "options": ["Cat", "Dog", "Bird", "Fish"], "answer": "Cat" },
+        { "question": "What do you wear on your feet?", "options": ["Shoes", "Shirt", "Hat", "Gloves"], "answer": "Shoes" },
+        { "question": "How many days are in a week?", "options": ["5", "6", "7", "8"], "answer": "7" },
+        { "question": "What do you drink?", "options": ["Water", "Book", "Pencil", "Phone"], "answer": "Water" },
+        { "question": "Which is a color?", "options": ["Red", "Run", "Read", "Rain"], "answer": "Red" },
+        { "question": "What comes after Monday?", "options": ["Tuesday", "Sunday", "Friday", "Thursday"], "answer": "Tuesday" },
+        { "question": "What do you use to write?", "options": ["Pen", "Fork", "Key", "Bottle"], "answer": "Pen" },
+        { "question": "How many fingers do you have?", "options": ["10", "5", "8", "6"], "answer": "10" }
+      ]
+    },
+    {
+      "id": 3,
+      "questions": [
+        { "question": "Which is a vegetable?", "options": ["Carrot", "Ball", "Shoe", "Phone"], "answer": "Carrot" },
+        { "question": "What do you eat in the morning?", "options": ["Breakfast", "Dinner", "Snack", "Lunch"], "answer": "Breakfast" },
+        { "question": "How much is 5 - 3?", "options": ["2", "1", "3", "4"], "answer": "2" },
+        { "question": "Which is an animal?", "options": ["Dog", "Spoon", "Shirt", "Lamp"], "answer": "Dog" },
+        { "question": "What is the opposite of 'happy'?", "options": ["Sad", "Funny", "Kind", "Cold"], "answer": "Sad" },
+        { "question": "What color is grass?", "options": ["Green", "Blue", "Red", "Yellow"], "answer": "Green" },
+        { "question": "What do you use to brush your teeth?", "options": ["Toothbrush", "Spoon", "Comb", "Soap"], "answer": "Toothbrush" },
+        { "question": "How do you say 'gracias' in English?", "options": ["Thanks", "Please", "Sorry", "Hello"], "answer": "Thanks" },
+        { "question": "Which is not a number?", "options": ["Seven", "Twenty", "Apple", "Ten"], "answer": "Apple" },
+        { "question": "Which is a pet?", "options": ["Cat", "Cow", "Tiger", "Lion"], "answer": "Cat" }
+      ]
+    }
+  ],
+  "level_advanced": [
+    {
+      "id": 1,
+      "questions": [
+        { "question": "Choose the correct passive form: 'They built the house in 1990.'", "options": ["The house was built in 1990.", "The house is built in 1990.", "The house built in 1990.", "The house has built in 1990."], "answer": "The house was built in 1990." },
+        { "question": "Which sentence uses a conditional correctly?", "options": ["If I will see him, I will tell him.", "If I saw him, I would tell him.", "If I see him, I told him.", "If I saw him, I will tell him."], "answer": "If I saw him, I would tell him." },
+        { "question": "What is a synonym for 'sin embargo'?", "options": ["Nevertheless", "Because", "Therefore", "Unless"], "answer": "Nevertheless" },
+        { "question": "Which is an example of reported speech?", "options": ["He says that he is tired.", "He said: 'I am tired.'", "He says: 'I am tired.'", "He says that he is tired."], "answer": "He says that he is tired." },
+        { "question": "Which verb is not irregular?", "options": ["Buy", "Catch", "Talk", "Write"], "answer": "Talk" },
+        { "question": "What is the meaning of the phrasal verb 'give up'?", "options": ["Surrender", "Continue", "Try", "Start"], "answer": "Surrender" },
+        { "question": "Choose the correct sentence:", "options": ["I never saw that movie.", "I never seen that movie.", "I have never seen that movie.", "I never did see that movie."], "answer": "I have never seen that movie." },
+        { "question": "What is the correct use of the subjunctive mood?", "options": ["If I were you, I would study.", "If I was you, I would study.", "If I am you, I would study.", "If I be you, I would study."], "answer": "If I were you, I would study." },
+        { "question": "Which sentence has correct punctuation?", "options": ["He said: 'I am coming.'", "He said 'I am coming.'", "He said, I am coming.", "He said. 'I am coming'"], "answer": "He said: 'I am coming.'" },
+        { "question": "What is a gerund?", "options": ["A noun formed from a verb + ing", "A past participle", "A present perfect tense", "An adverb ending in -ly"], "answer": "A noun formed from a verb + ing" }
+      ]
+    },
+    {
+      "id": 2,
+      "questions": [
+        { "question": "Choose the correct form: 'If I had known…'", "options": ["I would have acted differently.", "I would act differently.", "I had acted differently.", "I will have acted differently."], "answer": "I would have acted differently." },
+        { "question": "Which is a modal verb?", "options": ["Should", "Was", "Did", "Am"], "answer": "Should" },
+        { "question": "Identify the correct form: 'Neither the teacher nor the students ___ late.'", "options": ["are", "is", "was", "has been"], "answer": "are" },
+        { "question": "What does 'albeit' mean?", "options": ["Although", "Therefore", "Because", "Unless"], "answer": "Although" },
+        { "question": "Choose the correct use of the phrasal verb:", "options": ["He came up with a good idea.", "He put down a good idea.", "He went out a good idea.", "He came over a good idea."], "answer": "He came up with a good idea." },
+        { "question": "Which is an example of inversion?", "options": ["Never have I seen such a mess.", "I have never seen such a mess.", "I never saw such a mess.", "Such a mess never I saw."], "answer": "Never have I seen such a mess." },
+        { "question": "What is a collocation?", "options": ["A natural combination of words", "A synonym", "An adjective", "A verb form"], "answer": "A natural combination of words" },
+        { "question": "What is the correct indirect question?", "options": ["Could you tell me where he lives?", "Could you tell me where does he live?", "Could you tell me where is he living?", "Could you tell me where he live?"], "answer": "Could you tell me where he lives?" },
+        { "question": "Which is a formal connector?", "options": ["Furthermore", "So", "And", "But"], "answer": "Furthermore" },
+        { "question": "Choose the correct sentence:", "options": ["Despite the rain, we went out.", "In spite the rain, we went out.", "Although the rain, we went out.", "Though the rain, we went out."], "answer": "Despite the rain, we went out." }
+      ]
+    },
+    {
+      "id": 3,
+      "questions": [
+        { "question": "What is an idiom?", "options": ["A phrase with a non-literal meaning", "A direct command", "A type of slang", "A formal writing style"], "answer": "A phrase with a non-literal meaning" },
+        { "question": "Which word is a conjunction?", "options": ["Although", "Despite", "Due to", "However"], "answer": "Although" },
+        { "question": "Choose the correct conditional:", "options": ["If she had studied, she would have passed.", "If she studies, she passed.", "If she studies, she would pass.", "If she studied, she passes."], "answer": "If she had studied, she would have passed." },
+        { "question": "What is the passive voice of 'People speak English all over the world'?", "options": ["English is spoken all over the world.", "English speaks all over the world.", "English spoken all over the world.", "English is speaking all over the world."], "answer": "English is spoken all over the world." },
+        { "question": "Choose the correct complex sentence:", "options": ["Although it was raining, we went out.", "It was raining, and we went out.", "It was raining. We went out.", "Although it was raining. We went out."], "answer": "Although it was raining, we went out." },
+        { "question": "What is a synonym for 'beneficial'?", "options": ["Useful", "Harmful", "Dangerous", "Basic"], "answer": "Useful" },
+        { "question": "Which is a noun clause?", "options": ["What he said was true.", "Although he said it, it was false.", "He said it loudly.", "After he said that."], "answer": "What he said was true." },
+        { "question": "Choose the correct word order:", "options": ["Rarely do we see such honesty.", "We rarely see such honesty.", "Rarely we see such honesty.", "Such honesty rarely we see."], "answer": "Rarely do we see such honesty." },
+        { "question": "Which is a metaphor?", "options": ["Time is a thief.", "Time passes quickly.", "Time runs fast.", "Time moves forward."], "answer": "Time is a thief." },
+        { "question": "What is 'elision'?", "options": ["The omission of a sound or syllable", "A type of noun", "A way to emphasize a sentence", "A formal greeting"], "answer": "The omission of a sound or syllable" }
+      ]
+    }
+  ]
+}

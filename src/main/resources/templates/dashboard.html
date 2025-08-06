@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title th:text="${pageTitle}">Dashboard - AvaLearn</title>
+    <link rel="stylesheet" href="/styles.css"> <!-- Asume que tienes un archivo CSS para estilos básicos -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body class="bg-gradient-to-br from-blue-100 via-purple-100 to-pink-100 min-h-screen flex flex-col items-center justify-center p-4">
+    <div class="container mx-auto max-w-4xl bg-white rounded-xl shadow-lg p-8">
+        <header class="text-center mb-8">
+            <h1 class="text-4xl font-bold text-gray-800 mb-2">¡Bienvenido, <span th:text="${userName}">Usuario Demo</span>!</h1>
+            <p class="text-lg text-gray-600">Tu panel de aprendizaje personalizado.</p>
+        </header>
+
+        <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
+            <div class="bg-blue-50 p-4 rounded-lg shadow-md text-center">
+                <h2 class="text-xl font-semibold text-blue-700">Nivel</h2>
+                <p class="text-2xl font-bold text-blue-900" th:text="${userLevel}">Intermedio</p>
+            </div>
+            <div class="bg-green-50 p-4 rounded-lg shadow-md text-center">
+                <h2 class="text-xl font-semibold text-green-700">Monedas</h2>
+                <p class="text-2xl font-bold text-green-900" th:text="${userCoins}">150</p>
+            </div>
+            <div class="bg-yellow-50 p-4 rounded-lg shadow-md text-center">
+                <h2 class="text-xl font-semibold text-yellow-700">Racha</h2>
+                <p class="text-2xl font-bold text-yellow-900" th:text="${currentStreak}">7 días</p>
+            </div>
+            <div class="bg-purple-50 p-4 rounded-lg shadow-md text-center">
+                <h2 class="text-xl font-semibold text-purple-700">Meta Semanal</h2>
+                <p class="text-2xl font-bold text-purple-900" th:text="${weeklyGoal}">75 puntos</p>
+            </div>
+        </section>
+
+        <section class="mb-8">
+            <h2 class="text-2xl font-bold text-gray-800 mb-4">Tu Progreso</h2>
+            <div class="w-full bg-gray-200 rounded-full h-4 dark:bg-gray-700">
+                <div class="bg-blue-600 h-4 rounded-full" style="width: 70%"></div>
+            </div>
+            <p class="text-right text-sm text-gray-600 mt-2">70% Completado</p>
+        </section>
+
+        <section class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
+            <div class="bg-red-50 p-6 rounded-lg shadow-md">
+                <h3 class="text-xl font-semibold text-red-700 mb-2">Próxima Lección</h3>
+                <p class="text-gray-700 mb-4">Continúa con "Verbos Irregulares Avanzados".</p>
+                <a href="#" class="inline-block bg-red-500 text-white px-4 py-2 rounded-md hover:bg-red-600 transition-colors">Iniciar Lección</a>
+            </div>
+            <div class="bg-indigo-50 p-6 rounded-lg shadow-md">
+                <h3 class="text-xl font-semibold text-indigo-700 mb-2">Juegos Disponibles</h3>
+                <p class="text-gray-700 mb-4">Practica tu vocabulario con "Adivina la Palabra".</p>
+                <a href="#" class="inline-block bg-indigo-500 text-white px-4 py-2 rounded-md hover:bg-indigo-600 transition-colors">Jugar Ahora</a>
+            </div>
+        </section>
+
+        <div class="text-center mt-8">
+            <a href="/" class="text-blue-600 hover:underline font-semibold">Go back to Home</a>
+        </div>
+    </div>
+</body>
+</html>
